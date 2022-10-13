@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    private let emailText = "yigit@mail.com";
+    private let emailText = "yigit";
     private let passwordText = "123";
     @IBOutlet weak var email: UITextField!
     

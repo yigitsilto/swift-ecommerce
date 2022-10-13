@@ -9,6 +9,7 @@ import UIKit
 
 class HomePageViewController: UIViewController {
 
+
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -16,6 +17,7 @@ class HomePageViewController: UIViewController {
     }
     
 
+    @IBOutlet weak var asd: UITabBarItem!
     /*
     // MARK: - Navigation
 
